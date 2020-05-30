@@ -1,2 +1,2 @@
 # AI-Based-COVID-Predictor
-![alt text](http://url/to/img.png)
+![alt text](https://ai-based-covid-detection.herokuapp.com/)
