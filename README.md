@@ -1,2 +1,2 @@
 # AI-Based-COVID-Predictor
-![Optional Text](../master/myFolder/image.png)
+![Optional Text](Screenshot (10).png)
