@@ -1,2 +1,2 @@
 # AI-Based-COVID-Predictor
-![Screenshot](screenshot(10).png)
+![Screenshot](Screenshot (10).png)
