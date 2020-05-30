@@ -1,2 +1,2 @@
 # AI-Based-COVID-Predictor
-![Optional Text](Screenshot (10).png)
+![Optional Text](https://github.com/imkanth09/AI-Based-COVID-Predictor/blob/master/Screenshot%20(10).png)
